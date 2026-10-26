@@ -1,0 +1,14 @@
+# LaTeX build intermediates
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# OS clutter
+.DS_Store
+Thumbs.db
